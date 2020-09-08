@@ -2,6 +2,8 @@
 
 Learning Cucumber and BDD concepts with Cypress and the [cypress-cucumber-preprocessor](https://github.com/TheBrainFamily/cypress-cucumber-preprocessor) plugin.
 
+![Work In Progress](https://www.repostatus.org/badges/latest/wip.svg)
+
 ## About
 
 This repo is a learning ground for a few things:
