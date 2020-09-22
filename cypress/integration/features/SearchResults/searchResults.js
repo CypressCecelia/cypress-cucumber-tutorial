@@ -1,6 +1,6 @@
 import { Given, When, Then } from "cypress-cucumber-preprocessor/steps";
 
-const url = "https://ceceliacreates.netlify.app";
+const url = "https://ceceliacreates.com";
 
 Given("a web browser is at the CeceliaCreates homepage", () => {
   cy.visit(url);
